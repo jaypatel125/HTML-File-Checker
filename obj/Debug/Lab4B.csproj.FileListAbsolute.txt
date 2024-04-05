@@ -1,0 +1,10 @@
+C:\Users\jayko\Desktop\Lab4B\Lab4B\bin\Debug\Lab4B.exe.config
+C:\Users\jayko\Desktop\Lab4B\Lab4B\bin\Debug\Lab4B.exe
+C:\Users\jayko\Desktop\Lab4B\Lab4B\bin\Debug\Lab4B.pdb
+C:\Users\jayko\Desktop\Lab4B\Lab4B\obj\Debug\Lab4B.csproj.AssemblyReference.cache
+C:\Users\jayko\Desktop\Lab4B\Lab4B\obj\Debug\Lab4B.Form1.resources
+C:\Users\jayko\Desktop\Lab4B\Lab4B\obj\Debug\Lab4B.Properties.Resources.resources
+C:\Users\jayko\Desktop\Lab4B\Lab4B\obj\Debug\Lab4B.csproj.GenerateResource.cache
+C:\Users\jayko\Desktop\Lab4B\Lab4B\obj\Debug\Lab4B.csproj.CoreCompileInputs.cache
+C:\Users\jayko\Desktop\Lab4B\Lab4B\obj\Debug\Lab4B.exe
+C:\Users\jayko\Desktop\Lab4B\Lab4B\obj\Debug\Lab4B.pdb
