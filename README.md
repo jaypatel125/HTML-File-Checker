@@ -14,7 +14,7 @@ This is a simple web application built using .NET Framework that allows users to
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/jaypatel125/HTML-File-Checker
+    git clone https://github.com/jaypatel125/HTML-File-Checker.git
     ```
 
 2. Open the solution file (`.sln`) in Visual Studio.
@@ -33,6 +33,10 @@ This is a simple web application built using .NET Framework that allows users to
 
 4. The application will display whether the HTML tags are balanced or not.
 
+## Acknowledgements
+
+- Built with .NET Framework
+  
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
